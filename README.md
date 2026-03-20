@@ -384,25 +384,6 @@ See [SETUP.md](SETUP.md) for detailed troubleshooting.
 
 ---
 
-## Next Steps
-
-1. **Quick Demo:** `.\demo_workflow.bat` (Windows) or `bash demo_workflow.sh` (Linux/macOS)
-2. **Detailed Guide:** Read [SETUP.md](SETUP.md)
-3. **API Reference:** See [DEMONSTRATION.md](DEMONSTRATION.md)
-4. **Manual Testing:** Run `test_manual.ps1` or `test_manual.sh`
-5. **Postman Tests:** Import `Postman_Collection.json`
-
----
-
-## Support
-
-- **Setup Issues:** See [SETUP.md](SETUP.md#troubleshooting)
-- **API Questions:** See [DEMONSTRATION.md](DEMONSTRATION.md)
-- **Quick Lookup:** Use [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
-- **Code Details:** Check code comments and docstrings
-
----
-
 ## Summary
 
 This is a **complete, production-ready demonstration** of secure healthcare API development including:
